@@ -1,1 +1,1 @@
-<span style="color:yellow">Heart Disease Prediction App Using Python And Machine Learning</span>
+![Heart Disease Prediction App](https://github.com/shadowking06/Heart-Disease-Prediction-App-/blob/main/PNG.png)
