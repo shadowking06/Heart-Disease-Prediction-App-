@@ -1,6 +1,10 @@
 # ❤️ Heart Disease Prediction App
 
-Welcome to the **Heart Disease Prediction App**! This project uses **Python** and **Machine Learning** to predict the likelihood of heart disease based on user input. The app utilizes a **Logistic Regression** model for predictions.
+Welcome to the **Heart Disease Prediction App** ! 
+
+This project uses **Python** and **Machine Learning** to predict the likelihood of heart disease based on user input. 
+
+The app utilizes a **Logistic Regression** model for predictions.
 
 ## 🌟 Features
 
