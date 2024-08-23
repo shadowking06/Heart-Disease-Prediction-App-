@@ -24,9 +24,11 @@ The app utilizes a **Logistic Regression** model for predictions.
 
 ## 📈 Model Performance
 
-The Logistic Regression model was evaluated with an accuracy score of **[insert accuracy]** on the test dataset.
+The Logistic Regression model was evaluated with an accuracy score of ** [insert accuracy score] ** on the test dataset.
 
 ![Model Accuracy](https://img.shields.io/badge/Model_Accuracy-[insert_accuracy]-%23ff69b4?style=flat)
+
+![Heart Disease Prediction App](https://github.com/shadowking06/Heart-Disease-Prediction-App-/blob/main/PNG.png)
 
 ## 🗂️ File Structure
 
@@ -39,7 +41,7 @@ heart-disease-prediction/
 │   ├── index.html   # HTML file for the user interface
 ├── static/
 │   ├── style.css    # CSS file for styling the user interface
-└── requirements.txt # Python dependencies
+└── requirements.txt # Python dependencies 
 
 
-![Heart Disease Prediction App](https://github.com/shadowking06/Heart-Disease-Prediction-App-/blob/main/PNG.png)
+
